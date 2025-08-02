@@ -196,9 +196,9 @@ var config = {
             id: '5',
             alignment: 'full',
             hidden: false,
-            title: '',
+            title: 'Yıllar içinde ıslah çalışmalarıyla dönüştürülen Büyükdere Fidanlığı arazisi / Büyükdere Nursery land transformed through reclamation efforts over the years',
             image: 'https://i.ibb.co/rf5YLzvj/b-y-kdere-gif.gif',
-            description: '',
+            description: 'Büyükdere Fidanlığı’nın 1986 tarihli kaynaklarından yararlanılarak görselleştirilmiştir.',
             location: {
                  center: [29.028030117107857,41.1547217188274],
                 zoom: 18,
