@@ -196,38 +196,12 @@ var config = {
             id: '5',
             alignment: 'full',
             hidden: false,
-            title: 'Yıllar içinde ıslah çalışmalarıyla dönüştürülen Büyükdere Fidanlığı arazisi / Büyükdere Nursery land transformed through reclamation efforts over the years',
+            title: 'Fidanlık alanı, zaman içinde bataklık ve sazlık arazilerin ıslahıyla genişletilmiş, su yönetimi ve altyapı çalışmalarıyla geliştirilmiş; sulama için bentler ve kuyu inşa edilmiştir. Bir başka deyişle bataklık ve sazlık ekosistemleri yerine daha "steril", bilimsel yöntemlerle disipline edilmiş bir kamusal yeşil alan (urban void/ free space) oluşturulmuştur.',
             image: 'https://i.ibb.co/rf5YLzvj/b-y-kdere-gif.gif',
-            description: 'Büyükdere Fidanlığı’nın 1986 tarihli kaynaklarından yararlanılarak görselleştirilmiştir.',
+            description: '(Büyükdere Fidanlığı’nın 1986 tarihli kaynaklarından yararlanılarak görselleştirilmiştir. / It has been visualized using sources from 1986 related to the Büyükdere Nursery.) The nursery area was expanded over time through the reclamation of swampy and marshy lands, improved with water management and infrastructure works; dams and a well were constructed for irrigation. In other words, instead of swamp and marsh ecosystems, a more "sterile," scientifically disciplined public green space (urban void/free space) was created.',
             location: {
                  center: [29.028030117107857,41.1547217188274],
                 zoom: 18,
-                pitch: 40,
-                bearing: 0,
-        
-                // flyTo additional controls-
-                // These options control the flight curve, making it move
-                // slowly and zoom out almost completely before starting
-                // to pan.
-                //speed: 2, // make the flying slow
-                //curve: 0, // change the speed at which it zooms out
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: true,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
-        },
-         {
-            id: '5.5',
-            alignment: 'right',
-            hidden: false,
-            title: '',
-            image: 'https://i.ibb.co/tT14KqFC/55.png',
-            description: '',
-            location: {
-                 center: [29.028030117107857,41.1547217188274],
-                zoom: 15,
                 pitch: 40,
                 bearing: 0,
         
