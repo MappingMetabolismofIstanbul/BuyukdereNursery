@@ -1,3 +1,4 @@
+
 var config = {
     // style: 'mapbox://styles/mapbox/streets-v12',
     // leave commented to use Mapbox Standard Style
@@ -19,7 +20,7 @@ var config = {
     title: 'Büyükdere Fidanlığı ve Meyveciliğin Gelişimi / Büyükdere Nursery and the Development of Fruit Growing',
     subtitle: '',
     byline: 'BAP_Mapping Metabolism of Istanbul_Interactive Mapping / MEF AAP_027',
-    footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
+    footer: 'BAP_Mapping Metabolism of Istanbul_Interactive Mapping / MEF AAP_027',
     chapters: [
         {
             id: '0',
@@ -201,7 +202,7 @@ var config = {
             description: '(Büyükdere Fidanlığı’nın 1986 tarihli kaynaklarından yararlanılarak görselleştirilmiştir. / It has been visualized using sources from 1986 related to the Büyükdere Nursery.) The nursery area was expanded over time through the reclamation of swampy and marshy lands, improved with water management and infrastructure works; dams and a well were constructed for irrigation. In other words, instead of swamp and marsh ecosystems, a more "sterile," scientifically disciplined public green space (urban void/free space) was created.',
             location: {
                  center: [29.028030117107857,41.1547217188274],
-                zoom: 18,
+                zoom: 14,
                 pitch: 40,
                 bearing: 0,
         
@@ -213,7 +214,7 @@ var config = {
                 //curve: 0, // change the speed at which it zooms out
             },
             mapAnimation: 'flyTo',
-            rotateAnimation: true,
+            rotateAnimation: false,
             callback: '',
             onChapterEnter: [],
             onChapterExit: []
@@ -226,9 +227,9 @@ var config = {
             image: 'https://i.ibb.co/b551DRyJ/6.png',
             description: '',
             location: {
-                 center: [29.03106337251475,41.153899283541335],
-                zoom: 15,
-                pitch: 40,
+                 center: [28.98453534698146,41.03911855401876],
+                zoom: 16.5,
+                pitch: 0,
                 bearing: 0,
         
                 // flyTo additional controls-
@@ -239,7 +240,7 @@ var config = {
                 //curve: 0, // change the speed at which it zooms out
             },
             mapAnimation: 'flyTo',
-            rotateAnimation: true,
+            rotateAnimation: false,
             callback: '',
             onChapterEnter: [],
             onChapterExit: []
@@ -278,9 +279,9 @@ var config = {
             image: 'https://i.ibb.co/mfjFJqY/8.png',
             description: '',
             location: {
-                 center: [28.986970747515493,41.03896029082111],
-                zoom: 12,
-                pitch: 40,
+                 center: [29.02691351833372,41.1547796127613],
+                zoom: 15,
+                pitch: 0,
                 bearing: 0,
         
                 // flyTo additional controls-
@@ -291,7 +292,7 @@ var config = {
                 //curve: 0, // change the speed at which it zooms out
             },
             mapAnimation: 'flyTo',
-            rotateAnimation: true,
+            rotateAnimation: false,
             callback: '',
             onChapterEnter: [],
             onChapterExit: []
